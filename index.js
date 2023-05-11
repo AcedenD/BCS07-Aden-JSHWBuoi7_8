@@ -124,11 +124,11 @@ function doiHaiViTri() {
     document.getElementById("showBai6").innerHTML = arr;
 }
 
+// Bai 7
+
 function compareNumbers(a,b){
     return a - b;
 }
-
-// Bai 7
 
 function sortArray(){
     arr.sort(compareNumbers)
